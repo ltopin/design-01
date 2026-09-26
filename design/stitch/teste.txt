@@ -1,0 +1,2 @@
+Arquivo de teste: verifica se o sync do AI Studio preserva arquivos que ele nao criou.
+Nao apagar manualmente.
