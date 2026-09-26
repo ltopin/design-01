@@ -1,0 +1,6 @@
+{
+  "name": "PortHub - Gestão Portuária & Cotações",
+  "description": "Plataforma de contratação e rastreabilidade de serviços portuários para agentes e armadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
